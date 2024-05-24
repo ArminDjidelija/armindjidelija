@@ -2,6 +2,7 @@
 <h2>About me</h2>
 <h3>I'm a third year student at Faculty of information technology in Mostar</h3>
 <h3>Creating websites, IOT devices and learning new technologies</h3>
+<p>Participated on hackathon organised by BEST Mostar and created <a href="https://github.com/ArminDjidelija/Teachy-learning-assistant">Teachy - learning assistant</a> with my colleagues.</p>
 <p align="left"> </p>
 
 <div>   <a href="https://www.linkedin.com/in/armin-djidelija" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" style="height:28px;"></a>
