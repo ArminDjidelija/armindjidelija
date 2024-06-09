@@ -2,8 +2,10 @@
 <h2>About me</h2>
 <h3>I'm a third year student at Faculty of information technology in Mostar</h3>
 <h3>Creating websites, IOT devices and learning new technologies</h3>
-<p>Participated on hackathon organised by BEST Mostar and created <a href="https://github.com/ArminDjidelija/Teachy-learning-assistant">Teachy - learning assistant</a> with my colleagues.</p>
+<p>Won a FIRST place on FIT Coding challenge 2024 with my colleagues for SpineWise - smart chair that monitors your spine health using ML - <a href="https://github.com/ArminDjidelija/fitcc24-spinewise">SpineWise repository</a> </p>
 <p>Won a 3rd place on FIT Coding challenge 2022 with my colleagues for smart pneumatic hand - <a href="https://github.com/ArminDjidelija/Smart-pneumatic-hand-controller">Smart pneumatic hand controller repository</a> </p>
+<p>Participated on hackathon organised by BEST Mostar and created <a href="https://github.com/ArminDjidelija/Teachy-learning-assistant">Teachy - learning assistant</a> with my colleagues.</p>
+<p>🥇 2 Dean's awards for GPA 4.0 (Average grade 9.9)</p>
 <p align="left"> </p>
 
 <div>   <a href="https://www.linkedin.com/in/armin-djidelija" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" style="height:28px;"></a>
